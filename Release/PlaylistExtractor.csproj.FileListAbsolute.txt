@@ -1,0 +1,9 @@
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\bin\Release\PlaylistExtractor.exe.config
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\bin\Release\PlaylistExtractor.exe
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\bin\Release\PlaylistExtractor.pdb
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Release\PlaylistExtractor.Main.resources
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Release\PlaylistExtractor.Properties.Resources.resources
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Release\PlaylistExtractor.csproj.GenerateResource.cache
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Release\PlaylistExtractor.csproj.CoreCompileInputs.cache
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Release\PlaylistExtractor.exe
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Release\PlaylistExtractor.pdb

@@ -1,0 +1,10 @@
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\bin\Debug\PlaylistExtractor.exe.config
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\bin\Debug\PlaylistExtractor.exe
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\bin\Debug\PlaylistExtractor.pdb
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Debug\PlaylistExtractor.csprojResolveAssemblyReference.cache
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Debug\PlaylistExtractor.Properties.Resources.resources
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Debug\PlaylistExtractor.csproj.GenerateResource.cache
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Debug\PlaylistExtractor.csproj.CoreCompileInputs.cache
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Debug\PlaylistExtractor.exe
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Debug\PlaylistExtractor.pdb
+c:\users\mrrmc\Source\Repos\PlaylistExtractor\PlaylistExtractor\obj\Debug\PlaylistExtractor.Main.resources
